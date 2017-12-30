@@ -6,9 +6,10 @@ public class MovimentoVerticalSeno : MonoBehaviour {
 	private float tempo = 0;
 
 	void Start () {
+
 	}
 
-	void Update () {
+  void Update () {
 
     tempo += Time.deltaTime;
 
